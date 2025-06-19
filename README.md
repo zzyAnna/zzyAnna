@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 # **Contact Info**
 * Email: anna.ziyuanzhao@gmail.com
-* Phone: (773)681-1936
+* Phone: (773) 681-1936
 * LinkedIn: https://www.linkedin.com/in/ziyuan-anna-zhao/
