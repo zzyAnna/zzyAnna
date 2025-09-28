@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 
 # **About Me**
-* Computer Science + Mathemamtics + Linguistics Major at Northwestern University (Weinberg College of Arts and Sciences)
+* Computer Science + Mathematics Major at Northwestern University (Weinberg College of Arts and Sciences)
 * Love languages, flute, tennis (pickleball, squash?), snowboarding, and exploring the world <3
-* Favorite Food: Acai bowls and PBJ sandwiches 
+* Favorite Food: Salmon bagels and Acai bowls 
 
 # **Contact Info**
 * Email: anna.ziyuanzhao@gmail.com
 * Phone: (773) 681-1936
 * LinkedIn: https://www.linkedin.com/in/ziyuan-anna-zhao/
+* Personal Website: https://www.annazzy.me/
