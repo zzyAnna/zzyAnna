@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # **About Me**
 * Computer Science + Mathematics Major at Northwestern University (Weinberg College of Arts and Sciences)
-* Love languages, flute, tennis (pickleball, squash?), snowboarding, and exploring the world <3
+* Love flute, languages, tennis (pickleball, squash?), snowboarding, and exploring the world <3
 * Favorite Food: Salmon bagels and Acai bowls 
 
 # **Contact Info**
